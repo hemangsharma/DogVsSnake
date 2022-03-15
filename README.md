@@ -8,7 +8,8 @@ Each player has to press start button in order to start the game. Then each play
 
 <h2>Features</h2>
 <li>Two dices, and ability to roll them</li>
-<li>Two switches to switch between attcak and defnce mode ->Battle Log, to show log of the battle</li>
+<li>Two switches to switch between attcak and defnce mode</li>
+<li>Battle Log, to show log of the battle</li>
 <li>Health meter indicating health of player</li>
 <li>A round ends when a player health reachs 0, updating the score</li>
 <li>Sound effects</li>
